@@ -1,5 +1,6 @@
 local A_1 = game.Players.LocalPlayer.name.." [Loaded Lua's Script Hub v2.4.3] "-----message here
 local A_2 = "All"
+                               ---Main Script Code----
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 
