@@ -18,6 +18,7 @@ end)
 
 KillingCheats:CreateButton("Havoc's Gui", function()
  loadstring(game:HttpGet(("https://raw.githubusercontent.com/icuck/Sword-Simulator-GUI/master/main.lua"), true))()
+ end
 end)
 
 KillingCheats:CreateButton("God Mode (WORKING!)", function()
